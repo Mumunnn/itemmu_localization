@@ -1,0 +1,134 @@
+{
+  "subJudulSatu": "POPULER",
+  "@subJudulSatu": {
+    "description": "Judul Game Satu"
+  },
+  "subJudulDua": "JUDUL BARU",
+  "@subJudulDua": {
+    "description": "Judul Game Dua"
+  },
+
+  
+  "menuBeranda": "Beranda",
+  "@menuBeranda": {
+    "description": "Ikon menu beranda"
+  },
+  "menuCari": "Cari",
+  "@menuCari": {
+    "description": "Ikon menu cari"
+  },
+  "menuBantuan": "Bantuan",
+  "@menuBantuan": {
+    "description": "Ikon menu bantuan"
+  },
+  "menuAkun": "Akun",
+  "@menuAkun": {
+    "description": "Ikon menu akun"
+  },
+
+
+  "appBarBantuan": "Bantuan",
+  "@appBarBantuan": {
+    "description": "Judul Bar pada menu bantuan"
+  },
+  "pusatBantuan": "Pusat Bantuan",
+  "@pusatbantuan": {
+    "description": "Judul pusat bantuan"
+  },
+  "isiPusatBantuan": "Temukan semua jawaban dari pertanyaan kamu seputar Itemmu.",
+  "@isiPusatBantuan": {
+    "description": "Isi dari konten pusat bantuan"
+  },
+  "komplain": "Komplain",
+  "@komplain": {
+    "description": "Judul komplain"
+  },
+  "isiKomplain": "Cek komplain yang kamu ajukan ke Itemmu disini.",
+  "@isiKomplain": {
+    "description": "Isi dari konten komplain"
+  },
+  "hubungiItemmu": "Hubungi Itemmu",
+  "@hubungiItemmu": {
+    "description": "Judul Hubungi Itemmu"
+  },
+  "isiHubungiItemmu": "Tim layanan pengguna kami siap membantu mengatasi permasalahan kamu.",
+  "@isiHubungiItemmu": {
+    "description": "isi dari konten hubungi Itemmu"
+  },
+
+
+  "buatAkun": "Buat Akun",
+  "@buatAkun": {
+    "description": "Tombol buat akun di awal screen"
+  },
+  "atau": "Atau",
+  "@atau": {
+    "description": "atau dibawah tombol buat akun"
+  },
+  "awalTeksSatu": "Dengan melakukan pendaftaran berarti anda menyetujui segala ",
+  "@awalTeksSatu": {
+    "description": "teks pertama pada halaman awal screen"
+  },
+  "awalTeksSatuSpan": "Kebijakan Aplikasi",
+  "@awalTeksSatuSpan": {
+    "description": "bagian span teks pertama pada halaman awal screen"
+  },
+  "awalTeksDua": "Sudah mempunyai akun? ",
+  "@isiHubungiItemmu": {
+    "description": "teks kedua pada halaman awal screen"
+  },
+  "awalTeksDuaSpan": "Masuk",
+  "@awalTeksDuaSpan": {
+    "description": "bagian span teks kedua pada halaman awal screen"
+  },
+
+
+  "username": "Nama Pengguna",
+  "@username": {
+    "description": "form username"
+  },
+  "password": "Kata Sandi",
+  "@password": {
+    "description": "form password"
+  },
+  "tombolRegister": "Daftar",
+  "@tombolRegister": {
+    "description": "tombol daftar pada halaman register"
+  },
+
+
+  "tombolLogin": "Masuk",
+  "@tombolLogin": {
+    "description": "tombol masuk pada halaman login"
+  },
+
+
+  "profilDompet": "Dompet Digital",
+  "@profilDompet": {
+    "description": "Menu dompet digital pada halaman profil"
+  },
+  "profilKeranjang": "Keranjang",
+  "@profilKeranjang": {
+    "description": "Menu keranjang pada halaman profil"
+  },
+  "profilKupon": "Kupon",
+  "@profilKupon": {
+    "description": "Menu kupon pada halaman profil"
+  },
+  "profilTeks": "Riwayat Pembelian",
+  "@profilTeks": {
+    "description": "Teks riwayat pembelian pada halaman profil"
+  },
+  "profilBayar": "Belum Bayar",
+  "@profilBayar": {
+    "description": "menu belum bayar pada halaman profil"
+  },
+  "profilProses": "Sedang Diproses",
+  "@profilProses": {
+    "description": "menu sedang diproses pada halaman profil"
+  },
+  "profilSelesai": "Selesai",
+  "@profilSelesai": {
+    "description": "menu selesai pada halaman profil"
+  }
+}

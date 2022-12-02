@@ -1,0 +1,38 @@
+{
+  "subJudulSatu": "POPULAR",
+  "subJudulDua": "NEW TITLES",
+
+  "menuBeranda": "Home",
+  "menuCari": "Search",
+  "menuBantuan": "Help",
+  "menuAkun": "Account",
+
+  "appBarBantuan": "Help",
+  "pusatBantuan": "Help Center",
+  "isiPusatBantuan": "Find all the answers to your questions about Itemmu.",
+  "komplain": "Complain",
+  "isiKomplain": "Check the complaint that you submitted to Itemmu here.",
+  "hubungiItemmu": "Contact Itemmu",
+  "isiHubungiItemmu": "Our user service team is ready to help solve your problem.",
+
+  "buatAkun": "Create Account",
+  "atau": "Or",
+  "awalTeksSatu": "By registering, you agree to everything ",
+  "awalTeksSatuSpan": "Application Policy",
+  "awalTeksDua": "Already have an account? ",
+  "awalTeksDuaSpan": "Login",
+
+  "username": "Username",
+  "password": "Password",
+  "tombolRegister": "Register",
+
+  "tombolLogin": "Login",
+
+  "profilDompet": "Digital Wallet",
+  "profilKeranjang": "Cart",
+  "profilKupon": "Gift",
+  "profilTeks": "Purchase History",
+  "profilBayar": "Not yet Paid",
+  "profilProses": "Being Processed",
+  "profilSelesai": "Done"
+}
